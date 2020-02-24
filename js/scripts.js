@@ -1,6 +1,7 @@
 console.log('IQU is awesome');
-const x = {
-  a: 'asd'
+
+const y = {
+  basd: 'asd'
 };
 
 const b = x;
@@ -8,3 +9,5 @@ const b = x;
 b.a = 'ddsa';
 
 console.log(x.a);
+
+// some other changes
